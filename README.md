@@ -7,18 +7,15 @@ Welcome to my collection of certifications and hackathon achievements! This repo
 ## 📜 Certifications
 
 ### 1. **Google Cybersecurity Certificate**
-   - Completed: January 2024
-   - Credential ID: DEF56789
+   - Completed: February 15, 2024
    - Link to Certificate: [View Certificate](Google_cybersecurity.pdf)
    - 
 ### 2. **Microsoft Azure Fundamentals**
-   - Completed: March 2024
-   - Credential ID: XYZ12345
+   - Completed: March 26,2024
    - Link to Certificate: [View Certificate](Microsoft_Azure_Fundamentals.pdf)
 
 ### 3. **Certified Ethical Hacker**
-   - Completed: June 2024
-   - Credential ID: ABC98765
+   - Completed: June 17, 2024
    - Link to Certificate: [View Certificate](link-to-certificate)
 
 ---
